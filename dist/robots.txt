@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smart-trade-study-2026.panzhilviet.chatgpt.site/sitemap.xml
